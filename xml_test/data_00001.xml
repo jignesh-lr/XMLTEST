@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gmsck:gmsck-data xmlns:gmsck="http://www.intergraph.com/GMSCKommunal/1.0">
+  <gmsck:update>
+    <GDB_BAUM xmlns="gisdb" featureType="GDB_BAUM" id="jgZi3Iq5-hYdO-R9B7-YHwU-8NPPrzwCbp3c" externalId="20220324_123806" timestamp="2022-03-24 14:34:14.0314" dataSourceId="ArisuN4C-pf2A-YTXO-BkK5-gpSGc1vZBB65">
+      <BAUMART>|tree</BAUMART>
+      <STRASSENNAME>|street</STRASSENNAME>
+      <LAGEZUSATZ>Additional position</LAGEZUSATZ>
+      <HAUSNUMMER>123</HAUSNUMMER>
+      <ID>jgZi3Iq5-hYdO-R9B7-YHwU-8NPPrzwCbp3c</ID>
+      <EXTERNALID>20220324_123806</EXTERNALID>
+    </GDB_BAUM>
+  </gmsck:update>
+</gmsck:gmsck-data>

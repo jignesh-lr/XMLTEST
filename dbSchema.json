@@ -1,0 +1,414 @@
+{
+    "category": "Hundestation",
+    "table": [
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "fid",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Landkreis-ID",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Kommunen-ID",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Schild-ID",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "key_MKZ/HW",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "key_Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Himmelsrichtung",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "HWW Richtung",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Standortname",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP1",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP1 Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP2",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP2 Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP3",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP3 Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP4",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP4 Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP5",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP5 Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP6",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP6 Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP7",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP7 Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP8",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP8 Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP9",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP9 Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP10",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP10 Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP11",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP11 Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP12",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "TP12 Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Zielpik 1",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Ziel 1",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Streckenpik 1",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "km Vorkomma 1",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "km Nachkomma 1",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Zielpik 2",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Ziel 2",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Streckenpik 2",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "km Vorkomma 2",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "km Nachkomma 2",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Zielpik 3",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Ziel 3",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Streckenpik 3",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "km Vorkomma 3",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "km Nachkomma 3",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "MKZ",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "MKZ Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Pfosten",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Pfosten Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Schellengr\u00f6\u00dfe",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Schellen St\u00fcckzahl",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Schellen Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Halterung ZWW",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Holzunterlage Status",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Halterung HWW",
+            "data_type": "integer"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Beschreibung",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Kommentar",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Foto",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "xzzq",
+            "data_type": "double precision"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "Yqq",
+            "data_type": "double precision"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "DG_X",
+            "data_type": "double precision"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "DG_Y",
+            "data_type": "double precision"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "externalid",
+            "data_type": "character varying"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "testcolumn",
+            "data_type": "text"
+        },
+        {
+            "table_schema": "TEST",
+            "table_name": "hundestation_dev",
+            "column_name": "testcolumn11111111",
+            "data_type": "text"
+        }
+    
+    ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<values>
+    <tableName>hundestation_dev</tableName>
+    <tableSchema>public</tableSchema>
+    <geom>geom</geom>
+    <attributes>
+        <primarykey>nfc_id</primarykey>
+        <lagebeschreibung>position</lagebeschreibung>
+        <bemerkung>note</bemerkung>
+        <lrtest1>LRTEST1</lrtest1>        
+    </attributes>
+</values>

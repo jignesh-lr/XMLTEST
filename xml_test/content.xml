@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<java version="15.0.2" class="java.beans.XMLDecoder">
+  <object class="com.intergraph.gmsck.sync.service.DataSyncStatistics">
+    <void property="entries">
+      <object class="java.util.ArrayList">
+        <void method="add">
+          <object class="com.intergraph.gmsck.sync.service.DataSyncStatisticsEntry">
+            <void property="featureType">
+              <string>GDB_BAUM</string>
+            </void>
+            <void property="updateCount">
+              <int>1</int>
+            </void>
+          </object>
+        </void>
+      </object>
+    </void>
+    <void property="exportDate">
+      <object class="java.util.Date">
+        <long>1648128854</long>
+      </object>
+    </void>
+  </object>
+</java>
