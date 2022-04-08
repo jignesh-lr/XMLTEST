@@ -2,7 +2,7 @@
     <body>
         <div id="timer-text"></div>
         <button id="start">start</button>
-        <button id="restart">restart e</button>
+        <button id="restart">restart</button>
         <button id="stop">stop</button>
     </body>
     <script>
